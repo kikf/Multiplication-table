@@ -1,7 +1,7 @@
 # Hi this is my first app with nodejs
 
 ```
-BTW BEFORE CLONING THIS U NEED WRITE ON CONSOLE npm i or npm install
+BTW AFTER CLONING THIS U NEED WRITE ON CONSOLE npm i or npm install
 
 
 Options:
